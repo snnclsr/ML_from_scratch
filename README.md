@@ -29,36 +29,30 @@ You can find a comparison with the popular ML/DL libraries [Scikit-Learn](https:
 
 # Examples
 
-**K-Nearest Neighbors:**
-
 ![K-Nearest Neighbors](images/knn.png)
 
 ---------------------
-
-**Polynomial Regression:**
 
 ![Polynomial Regression](images/polynomial_reg.png)
 
 ---------------------
 
-**Logistic Regression:**
-
 ![Logistic Regression](images/logistic_reg.png)
 
 ---------------------
 
-**DBSCAN:**
-
-![DBSCAN](images/dbscan.png)
+![Perceptron](images/perceptron.png)
 
 ---------------------
 
-**Principal Component Analysis:**
+![DBSCAN](images/dbscan.jpg)
+
+---------------------
 
 ![Principal Component Analysis](images/pca.png)
 
 ---------------------
 
-**K-Means:**
-
 ![K-Means](images/k-means.png)
+
+
