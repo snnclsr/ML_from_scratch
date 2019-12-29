@@ -49,10 +49,14 @@ You can find a comparison with the popular ML/DL libraries [Scikit-Learn](https:
 
 ---------------------
 
-![Principal Component Analysis](images/pca.png)
+![K-Means](images/k-means.png)
 
 ---------------------
 
-![K-Means](images/k-means.png)
+![Principal Component Analysis](images/pca.png)
 
+
+# REFERENCES
+
+**Please check out the [REFERENCES](REFERENCES.md) file.**
 
